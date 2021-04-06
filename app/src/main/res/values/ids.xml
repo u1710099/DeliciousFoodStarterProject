@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ingredients" type="id" />
+    <item name="recipe" type="id" />
+    <item name="method" type="id" />
+    <item name="text_recipe" type="id" />
+    <item name="recyclerView_id" type="id" />
+</resources>
